@@ -19,3 +19,4 @@ We have designed this courselet into 5 modules, representing a 5 step machine le
 * https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 * https://en.wikipedia.org/wiki/JSON
 * https://en.wikipedia.org/wiki/Principal_component_analysis
+* https://en.wikipedia.org/wiki/Relational_model
