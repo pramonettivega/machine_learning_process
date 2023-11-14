@@ -2,7 +2,7 @@
 
 Welcome to the machine learning process courselet. In this courselet, you will learn the fundamental process to build a machine learning model, from the acquisition of the data, through deployment. This courselet is meant to give an introductory foundation of the covered topics. 
 
-The courselet is composed by the following modules
+We have designed this courselet into 5 modules, representing a 5 step machine learning process. The modules are the following:
 
 * Step 1 - Acquiring Data
 * Step 2 - Exploring Data
