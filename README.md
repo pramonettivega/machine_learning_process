@@ -9,14 +9,3 @@ We have designed this courselet into 5 modules, representing a 5 step machine le
 * Step 3 - Data Preprocessing
 * Step 4 - Analysis and Reporting
 * Step 5 - Deployment
-
-## References
-
-* https://data.gov/
-* https://archive.ics.uci.edu/
-* https://scikit-learn.org/stable/modules/feature_selection.html
-* https://data.cityofchicago.org/
-* https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-* https://en.wikipedia.org/wiki/JSON
-* https://en.wikipedia.org/wiki/Principal_component_analysis
-* https://en.wikipedia.org/wiki/Relational_model
